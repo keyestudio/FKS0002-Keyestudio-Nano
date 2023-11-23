@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: FKS0002 Keyestudio Nano
+   :caption: FKS0002 Keyestudio Nano Inventor Starter Kit
 
    1.Introduction.md
    2.Devlopment board.md
